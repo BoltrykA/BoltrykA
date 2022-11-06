@@ -1,4 +1,4 @@
-anyone wanna teach me Javascript ?
+i like java uwu
 
 <!---
 AikyuBasu/AikyuBasu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
