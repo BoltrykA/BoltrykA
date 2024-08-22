@@ -9,7 +9,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a current focus on
 
 My main areas of skills are:
 
-- 🖥️ **Languages:** JavaScript, Python, Java, C, C#, Flutter
+- 🖥️ **Languages:** JavaScript/TypeScript, Python, Java, C, C#, Flutter
 - 🛠️ **Technologies & Tools:** Git, Docker, Kubernetes
 - 🚀 **Frameworks:** React, Node.js, Next.js, Spring Boot, .NET
 - 🗂️ **Databases:** MongoDB, MySQL, PostgreSQL
