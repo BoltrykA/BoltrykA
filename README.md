@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alicia
 
-Welcome to my GitHub profile! I'm a passionate developer with a current focus on Web Development. I love building innovative projects and learning new technologies.
+Welcome to my GitHub profile! I'm a developer with a current focus on Web Development. 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alicia-boltryk/)
 [![Email](https://img.shields.io/badge/Email-me-red?style=flat&logo=gmail&logoColor=white)](mailto:boltryk.alicia@gmail.com)
@@ -52,7 +52,7 @@ Description: A single-page application, in the form of a 3D game, designed to ra
 
 ## Let's Connect!
 
-Feel free to reach out to me for collaboration or just a friendly chat. I'm always open to discussing new projects and opportunities.
+Feel free to reach out to me for collaboration or just a friendly chat. 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alicia-boltryk/)
 [![Email](https://img.shields.io/badge/Email-me-red?style=flat&logo=gmail&logoColor=white)](mailto:boltryk.alicia@gmail.com)
