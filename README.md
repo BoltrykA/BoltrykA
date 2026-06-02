@@ -1,18 +1,18 @@
 # 👋 Hi, I'm Alicia
 
-Welcome to my GitHub profile! I'm a developer with a current focus on Web Development. 
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alicia-boltryk/)
-[![Email](https://img.shields.io/badge/Email-me-red?style=flat&logo=gmail&logoColor=white)](mailto:boltryk.alicia@gmail.com)
+Welcome to my GitHub profile! I'm a developer with many interests... I'm wandering around !
 
 ## About Me
 
-My main areas of skills are:
+Languages spoken: French, English, some broken Dutch ~~and some Polish swear words~~.
 
-- 🖥️ **Languages:** JavaScript/TypeScript, Python, Java, C, C#, Flutter
-- 🛠️ **Technologies & Tools:** Git, Docker, Kubernetes
-- 🚀 **Frameworks:** React, Node.js, Next.js, Spring Boot, .NET
-- 🗂️ **Databases:** MongoDB, MySQL, PostgreSQL
+My interests and skills:
+
+- 🖥️ **Languages:** Java, TypeScript, Python, C, C#... some mobile when I'm feeling adventurous.
+- 🛠️ **Technologies & Tools:** Git, Docker
+- 🚀 **Frameworks:** NodeJS: VueJS, React, Next.js, Java: Spring Boot, .NET
+- 🗂️ **Databases:** PostgreSQL, MongoDB. Interest with distributed databases.
+- 🤖 **AI:** I have once trained and fine-tuned my own little AI model. It is fun! But I am by no means an AI Engineer, so I'm mainly sticking to using existing LLM models and agents.
 
 ## Technologies & Tools
 
@@ -26,21 +26,12 @@ My main areas of skills are:
 
 ## Projects
 
-### [Cook with Mimi](https://cook-with-mimi-frontend.azurewebsites.net/)
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js&logoColor=white) 
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=flat&logo=node.js&logoColor=white) 
-![Azure](https://img.shields.io/badge/-Azure-blue?style=flat&logo=microsoft-azure&logoColor=white)
-
-Description: A web application for aesthethic food enthusiasts to find and share cute recipes! Built with Next.js and Node.js, deployed on Azure.
-
-[Visit "Cook with Mimi" !](https://cook-with-mimi-frontend.azurewebsites.net/)
-
 ### [Seal Rescue](https://e-vinci.github.io/SealRescue-Frontend/)
 ![Vanilla JS](https://img.shields.io/badge/-Vanilla%20JS-yellow?style=flat&logo=javascript&logoColor=white) 
 ![HTML5](https://img.shields.io/badge/-HTML5-orange?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-blue?style=flat&logo=css3&logoColor=white)
 
-Description: A single-page application, in the form of a 3D game, designed to raise awareness about seal rescue operations. Created for educational purposes with vanilla JavaScript, HTML5, and CSS3.
+Description: A single-page application, in the form of a 3D game, designed to raise awareness about seal rescue operations. Created for educational purposes with our good old trinity that helped us all get started: JavaScript, HTML5, and CSS3.
 
 [Try it out!](https://e-vinci.github.io/SealRescue-Frontend/)
 
