@@ -19,7 +19,7 @@
 ---
  
 ## 🛠️ Tech Stack
- 
+
 <div align="center">
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" height="40" alt="JavaScript" title="JavaScript" style="margin: 6px;" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" height="40" alt="TypeScript" title="TypeScript" style="margin: 6px;" />
@@ -31,6 +31,7 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/git.png" height="40" alt="Git" title="Git" style="margin: 6px;" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" height="40" alt="MongoDB" title="MongoDB" style="margin: 6px;" />
 </div>
+
 ---
  
 ## 🚀 Projects
@@ -46,7 +47,9 @@ A single-page 3D game designed to raise awareness about seal rescue operations �
 ➡️ **[Try it out!](https://e-vinci.github.io/SealRescue-Frontend/)**
 
 > A bit of yapping: I must pay my respects to David Catuhe, founder of BabylonJS - the 3D rendering engine we used to create Seal Rescue: not only did he build the most amazing JavaScript frameworks to ever exist, he also pivoted to become a talented Digital Artist. What a journey !
- 
+
+---
+
 ## 💬 Let's Connect
  
 Always happy to chat, collaborate, or just say hi!
