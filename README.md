@@ -35,6 +35,8 @@ Description: A single-page application, in the form of a 3D game, designed to ra
 
 [Try it out!](https://e-vinci.github.io/SealRescue-Frontend/)
 
+A bit of yapping: I must pay my respects to David Catuhe, founder of the library we used for the 3D rendering of SealRescue (BabylonJS). Not only did he create the most amazing Javascript framework to exist, he also switched careers to become a talented Digital Artist. What a journey!
+
 ## GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BoltrykA&show_icons=true&theme=radical)
