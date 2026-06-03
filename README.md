@@ -49,11 +49,3 @@ A single-page 3D game designed to raise awareness about seal rescue operations â
 > A bit of yapping: I must pay my respects to David Catuhe, founder of BabylonJS - the 3D rendering engine we used to create Seal Rescue: not only did he build the most amazing JavaScript frameworks to ever exist, he also pivoted to become a talented Digital Artist. What a journey !
 
 ---
-
-## ðŸ’¬ Let's Connect
- 
-Always happy to chat, collaborate, or just say hi!
- 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Alicia%20Boltryk-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alicia-boltryk/)
-[![Email](https://img.shields.io/badge/Email-boltryk.alicia%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:boltryk.alicia@gmail.com)
- 
