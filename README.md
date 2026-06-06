@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alicia
  
-*A developer with many interests... wandering around*
+*A developer with interests... wandering around*
  
 🇫🇷 French · 🇬🇧 English · 🇳🇱 some broken Dutch · ~~some Polish swear words~~
  
@@ -14,13 +14,14 @@
 | 🛠️ **Tools** | Git · Docker |
 | 🚀 **Frameworks** | VueJS · React · Next.js · Spring Boot · .NET |
 | 🗂️ **Databases** | PostgreSQL · MongoDB · *distributed databases curious* |
-| 🤖 **AI** | Fine-tuned my own model once (it was fun!) · LLM apps & agents |
+| 🤖 **AI** | Fine-tuned my own model once, it was fun, but I'm sticking to using LLM apps & agents |
  
 ---
  
 ## 🛠️ Tech Stack
 
 <div align="center">
+ <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/java.png" height="40" alt="JavaScript" title="JavaScript" style="margin: 6px;" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" height="40" alt="JavaScript" title="JavaScript" style="margin: 6px;" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/typescript.png" height="40" alt="TypeScript" title="TypeScript" style="margin: 6px;" />
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" height="40" alt="Python" title="Python" style="margin: 6px;" />
