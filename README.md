@@ -13,8 +13,8 @@
 | 🖥️ **Languages** | Java · TypeScript · Python · C · C# · *mobile when feeling adventurous* |
 | 🛠️ **Tools** | Git · Docker |
 | 🚀 **Frameworks** | VueJS · React · Next.js · Spring Boot · .NET |
-| 🗂️ **Databases** | PostgreSQL · MongoDB · *distributed databases curious* |
-| 🤖 **AI** | Fine-tuned my own model once, it was fun, but I'm sticking to using LLM apps & agents |
+| 🗂️ **Databases** | PostgreSQL · MongoDB · *distributed databases* |
+| 🤖 **AI** | Trained & Fine-tuned my own lil model once, does it count ? 👉👈 |
  
 ---
  
